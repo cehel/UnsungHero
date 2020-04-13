@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unsung Hero</string>
+    <string name="tab_vote">Vote</string>
+    <string name="tab_nominations">Nominations</string>
+</resources>
